@@ -448,6 +448,7 @@ docker.io/wiznote/wizserver
 docker.io/xhofe/alist
 docker.io/xiaoyaliu/alist
 docker.io/xprobe/xinference
+docker.io/yidadaa/chatgpt-next-web
 docker.io/ydlhero/chatgpt-web-midjourney-proxy
 docker.io/yedf/dtm
 docker.io/zabbix/*
